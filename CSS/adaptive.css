@@ -1,0 +1,71 @@
+@media screen and (max-width:1200px){
+    .about{
+        width: 1140px;
+    }
+    }
+
+@media screen and (max-width:1199px){
+        .about{
+        width: 960px;
+    }
+        .ellipse{
+       width: 10%;
+    }
+        .exam{
+        width: 95%;
+    }
+        .ex_all{
+        margin: 0 15px 0;
+    }
+        .img_1:nth-child(1){
+        width: 80%;
+    }
+        .var{
+        width: 80%;
+    }
+        .ex_3{
+        width: 40%;
+        margin: 38px 0 36px
+    }
+    }
+
+@media screen and (max-width:991px){
+    
+    html{
+        width: 940px;
+    }
+
+    .about{ 
+        width: 910px;
+    }
+    .review{
+        width: 80%;
+    }
+    .skill{
+        margin: 53 50px 0 150px;
+    }
+
+    .sn_2{
+        margin-right: 28px;
+    }
+
+}
+
+@media screen and (max-width:767px){
+    
+    html{
+        width: 937px;
+    }
+
+    .about{
+        padding: 0;
+        margin: 90px 0;
+
+    }
+}
+
+@media screen and (max-width:575px){
+    .about{
+        width: 100%;
+    }
+}
